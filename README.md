@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **intermediate and hard projects**
 
-- 🌱 I’m currently learning **C#, ML, Data Science, Django, Qt**
+- 🌱 I’m currently learning **C#, ML, Data Science, Django**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, SQL, Qt**
 
 - 📫 How to reach me **demirkolluosmanali@gmail.com**
 
