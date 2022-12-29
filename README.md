@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **intermediate and hard projects**
 
-- 🌱 I’m currently learning **C#, ML, Data Science, Django**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python, SQL, Qt**
 
