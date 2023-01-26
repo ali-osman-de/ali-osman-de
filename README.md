@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Osman</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **intermediate and hard projects**
+- 🔭 I’m currently working on **intermediate projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Reactjs, Flutter, Django**
 
-- 💬 Ask me about **Python, SQL, Qt**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **demirkolluosmanali@gmail.com**
 
