@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-osman-de&show_icons=true&locale=en&layout=compact" alt="ali-osman-de" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-osman-de&show_icons=true&locale=en" alt="ali-osman-de" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-osman-de&" alt="ali-osman-de" /></p>
