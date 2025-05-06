@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Osman</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Reactjs, Flutter**
+- 🌱 I’m currently learning **Reactjs, React Native**
 
 - 💬 Ask me about **Python**
 
